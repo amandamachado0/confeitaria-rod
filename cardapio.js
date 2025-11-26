@@ -28,5 +28,5 @@
     criarItemCardapio(
         'Bolo de Chocolate',
         'Um clássico com camadas de chocolate', 
-        'https://www.comidaereceitas.com.br/img/sizeswp/1200x675/2020/05/bolo_chocolate_leite.jpg'
+        'https://receitadaboa.com.br/wp-content/uploads/2024/12/bolo-de-chocolate.jpg'
     )
