@@ -26,7 +26,7 @@
 }
 
     criarItemCardapio(
-        'Bolo de Chocolate',
-        'Um clássico com camadas de chocolate', 
-        'https://receitadaboa.com.br/wp-content/uploads/2024/12/bolo-de-chocolate.jpg'
+        'Bolo de Morango',
+        'Um clássico com camadas de morango', 
+        'https://bambini.com.br/wp-content/uploads/2016/07/bolo-morango-com-chnatily-389.jpg'
     )
